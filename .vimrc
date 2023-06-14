@@ -1,7 +1,7 @@
 set nocompatible
 syntax on
 set nu "number
-"set rnu "relativenumber
+set rnu "relativenumber
 
 " the fuck Tab
 set sw=4 " << / >> size
